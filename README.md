@@ -1,3 +1,3 @@
-# Gerador-de-senhas
+Password Generator
 ---
-Um programa simples que gera senhas seguras quantas vezes você quiser 🙃
+A simple program that generates secure passwords as many times as you want 🙃
